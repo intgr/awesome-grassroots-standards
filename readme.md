@@ -18,17 +18,20 @@ A curated list of **awesome technology specifications and standards** published 
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
-- [Follow](#follow)
+- [File System Conventions](#file-system-conventions)
+- [Environment Variables](#environment-variables)
 
 <!-- CONTENT -->
 
 ## File System Conventions
 
+- [Cache Directory Tagging](https://bford.info/cachedir/) - Directories containing `CACHEDIR.TAG` can be recognized by e.g. backup software.
+- [Mark Generated Files](https://generated.at/) - Include `@generated` keyword in auto-generated text files.
 
 ## Environment Variables
 
+- [ANSI Colors in Terminals](https://bixense.com/clicolors/) - Use `NO_COLOR`, `CLICOLOR_FORCE`, and `CLICOLOR` to control color output in CLI tools.
+- [HTTP Proxy Exclusions](https://about.gitlab.com/blog/2021/01/27/we-need-to-talk-no-proxy/#no_proxy-1) - (De facto) Using `no_proxy` with maximum compatibility with various software (de facto).
 
 <!-- END CONTENT -->
 
