@@ -21,6 +21,7 @@ A curated list of **awesome technology specifications and standards** published 
 - [File System Conventions](#file-system-conventions)
 - [Environment Variables](#environment-variables)
 - [Development Conventions](#development-conventions)
+- [Developer Tooling](#developer-tooling)
 
 <!-- CONTENT -->
 
@@ -39,6 +40,10 @@ A curated list of **awesome technology specifications and standards** published 
 - [Semantic Versioning](https://semver.org/) - Version numbers should carry meaning.
 - [Keep a Changelog](https://keepachangelog.com/en/) - Conventions for maintaining a Markdown-based release notes file.
 - [Conventional Commits](https://www.conventionalcommits.org/en/) - Prefixes and conventions for git commit messages.
+
+## Developer Tooling
+
+- [EditorConfig](https://editorconfig.org/) - Code style configuration supported by many IDEs.
 
 <!-- END CONTENT -->
 
