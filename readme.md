@@ -33,6 +33,12 @@ A curated list of **awesome technology specifications and standards** published 
 - [ANSI Colors in Terminals](https://bixense.com/clicolors/) - Use `NO_COLOR`, `CLICOLOR_FORCE`, and `CLICOLOR` to control color output in CLI tools.
 - [HTTP Proxy Exclusions](https://about.gitlab.com/blog/2021/01/27/we-need-to-talk-no-proxy/#no_proxy-1) - (De facto) Using `no_proxy` with maximum compatibility with various software.
 
+## Development Conventions
+
+- [Semantic Versioning](https://semver.org/) - Version numbers should carry meaning.
+- [Keep a Changelog](https://keepachangelog.com/en/) - Conventions for maintaining a Markdown-based release notes file.
+- [Conventional Commits](https://www.conventionalcommits.org/en/) - Prefixes and conventions for git commit messages.
+
 <!-- END CONTENT -->
 
 ## Contributing
