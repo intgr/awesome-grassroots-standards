@@ -20,6 +20,7 @@ A curated list of **awesome technology specifications and standards** published 
 
 - [File System Conventions](#file-system-conventions)
 - [Environment Variables](#environment-variables)
+- [Development Conventions](#development-conventions)
 
 <!-- CONTENT -->
 
