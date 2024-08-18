@@ -1,30 +1,56 @@
-# Awesome List Template
+<div align="center">
 
-This is an [awesome-list](https://github.com/sindresorhus/awesome) template with
-CI to run [awesome-lint](https://github.com/sindresorhus/awesome-lint) and
-[awesome_bot](https://github.com/dkhamsing/awesome_bot) to be compliant from the
-beginning.
+<!-- title -->
 
-## Usage
+<!--lint ignore no-dead-urls-->
 
-1. [generate a template of this repo](https://github.com/jthegedus/awesome-list-template/generate)
-2. run a find & replace of `YOUR_GITHUB_USER/YOUR_REPO` with your details
-3. edit `readme-template.md`
-   - update the h1 title
-   - update the subtitle
-   - update the description
-   - add img src, make it link to the site of the thing in the image.
-4. choose a CI template
-   - GitHub Action: move config folder from `repo-root/ci/.github/` to
-     `repo-root/.github`
-   - Circle CI: move config folder from `repo-root/ci/.circleci/*` to
-     `repo-root/.circleci/*`
-   - GitLab CI: move config file from `repo-root/ci/.gitlab-ci.yml` to the
-     `repo-root/.gitlab-ci.yml`
-5. run a find & replace `readme-template.md` to `readme.md` in the CI you chose
-5. delete this file
-6. rename `readme-template.md` file to `readme.md`
+# Awesome Grassroots Standards [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/intgr/awesome-grassroots-standards/actions/workflows/lint.yaml/badge.svg)](https://github.com/intgr/awesome-grassroots-standards/actions/workflows/lint.yaml)
+
+A curated list of **awesome technology specifications and standards** published by non-standards authorities, that are widely applicable to different kinds of software.
+
+<!-- image -->
+
+<!-- description -->
+
+</div>
+
+<!-- TOC -->
+
+## Contents
+
+- [File System Conventions](#file-system-conventions)
+- [Environment Variables](#environment-variables)
+- [Development Conventions](#development-conventions)
+- [Developer Tooling](#developer-tooling)
+
+<!-- CONTENT -->
+
+## File System Conventions
+
+- [Cache Directory Tagging](https://bford.info/cachedir/) - Directories containing `CACHEDIR.TAG` can be recognized by e.g. backup software.
+- [Mark Generated Files](https://generated.at/) - Include `@generated` keyword in auto-generated text files.
+
+## Environment Variables
+
+- [ANSI Colors in Terminals](https://bixense.com/clicolors/) - Use `NO_COLOR`, `CLICOLOR_FORCE`, and `CLICOLOR` to control color output in CLI tools.
+- [HTTP Proxy Exclusions](https://about.gitlab.com/blog/2021/01/27/we-need-to-talk-no-proxy/#no_proxy-1) - (De facto) Using `no_proxy` with maximum compatibility with various software.
+
+## Development Conventions
+
+- [Semantic Versioning](https://semver.org/) - Version numbers should carry meaning.
+- [Keep a Changelog](https://keepachangelog.com/en/) - Conventions for maintaining a Markdown-based release notes file.
+- [Conventional Commits](https://www.conventionalcommits.org/en/) - Prefixes and conventions for git commit messages.
+
+## Developer Tooling
+
+- [EditorConfig](https://editorconfig.org/) - Code style configuration supported by many IDEs.
+
+<!-- END CONTENT -->
 
 ## Contributing
 
-Contributions welcome!
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/intgr/awesome-grassroots-standards/graphs/contributors)!
