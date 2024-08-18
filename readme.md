@@ -34,6 +34,7 @@ A curated list of **awesome technology specifications and standards** published 
 
 - [ANSI Colors in Terminals](https://bixense.com/clicolors/) - Use `NO_COLOR`, `CLICOLOR_FORCE`, and `CLICOLOR` to control color output in CLI tools.
 - [HTTP Proxy Exclusions](https://about.gitlab.com/blog/2021/01/27/we-need-to-talk-no-proxy/#no_proxy-1) - (De facto) Using `no_proxy` with maximum compatibility with various software.
+- [POSIX-compliant dotenv syntax](https://github.com/php-xdg/dotenv-spec/blob/main/README.md) - Rigorous specification for `.env` file format containing environment variables.
 
 ## Development Conventions
 
