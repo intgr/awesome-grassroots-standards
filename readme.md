@@ -31,7 +31,7 @@ A curated list of **awesome technology specifications and standards** published 
 ## Environment Variables
 
 - [ANSI Colors in Terminals](https://bixense.com/clicolors/) - Use `NO_COLOR`, `CLICOLOR_FORCE`, and `CLICOLOR` to control color output in CLI tools.
-- [HTTP Proxy Exclusions](https://about.gitlab.com/blog/2021/01/27/we-need-to-talk-no-proxy/#no_proxy-1) - (De facto) Using `no_proxy` with maximum compatibility with various software (de facto).
+- [HTTP Proxy Exclusions](https://about.gitlab.com/blog/2021/01/27/we-need-to-talk-no-proxy/#no_proxy-1) - (De facto) Using `no_proxy` with maximum compatibility with various software.
 
 <!-- END CONTENT -->
 
