@@ -20,6 +20,7 @@ A curated list of **awesome technology specifications and standards** published 
 
 - [File System Conventions](#file-system-conventions)
 - [Environment Variables](#environment-variables)
+- [Terminals](#terminals)
 - [Development Conventions](#development-conventions)
 - [Developer Tooling](#developer-tooling)
 
@@ -34,6 +35,10 @@ A curated list of **awesome technology specifications and standards** published 
 
 - [ANSI Colors in Terminals](https://bixense.com/clicolors/) - Use `NO_COLOR`, `CLICOLOR_FORCE`, and `CLICOLOR` to control color output in CLI tools.
 - [HTTP Proxy Exclusions](https://about.gitlab.com/blog/2021/01/27/we-need-to-talk-no-proxy/#no_proxy-1) - (De facto) Using `no_proxy` with maximum compatibility with various software.
+
+## Terminals
+
+- [Hyperlinks (HTML-like anchors) in terminals](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda) - ANSI-like escape codes for clickable links (OSC 8).
 
 ## Development Conventions
 
