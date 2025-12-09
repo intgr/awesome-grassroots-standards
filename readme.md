@@ -29,7 +29,7 @@ A curated list of **awesome technology specifications and standards** published 
 ## File System Conventions
 
 - [Cache Directory Tagging](https://bford.info/cachedir/) - Directories containing `CACHEDIR.TAG` can be recognized by e.g. backup software.
-- [Mark Generated Files](https://generated.at/) - Include `@generated` keyword in auto-generated text files.
+- [Mark Generated Files](https://web.archive.org/web/20251001153814/https://generated.at/) - Include `@generated` keyword in auto-generated text files.
 
 ## Environment Variables
 
